@@ -22,8 +22,8 @@ setting this up somewhere Session5 doesn't already exist as a sibling
 directory, clone it first:
 
 ```bash
-git clone https://github.com/waseemkhan606/phase5-session5.git Session5
-cd Session5
+git clone https://github.com/himanshuvidyarthi/5.6-Stress-Testing.git
+cd 5.6-Stress-Testing
 docker compose up -d --build
 ```
 
